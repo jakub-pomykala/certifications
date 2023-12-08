@@ -3,11 +3,11 @@
 
 As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Technology Compatibility Kit License], following is a summary of the TCK results for releases of MicroProfile Config 3.1
 
-== Open Liberty 23.0.0.12 - MicroProfile Config 3.1 Certification Summary (Java 11)
+== IBM WebSphere Liberty 23.0.0.12 - MicroProfile Config 3.1 Certification Summary (Java 11)
 
 * Product Name, Version and download URL (if applicable):
 +
-https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/release/23.0.0.12/openliberty-23.0.0.12.zip[Open Liberty 23.0.0.12]
+https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/release/23.0.0.12/openliberty-23.0.0.12.zip[IBM WebSphereLiberty 23.0.0.12]
 
 * Specification Name, Version and download URL:
 +
