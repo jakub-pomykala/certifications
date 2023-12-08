@@ -27,7 +27,7 @@ MicroProfile 6.1 consists of 8 MicroProfile Specifications plus the Jakarta EE C
 
 === Product Name, Version and download URL (if applicable):
 
-https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/release/23.0.0.12/openliberty-23.0.0.12.zip[IBM WebSphere Liberty 23.0.0.12]
+https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm~WebSphere&product=ibm/WebSphere/WebSphere+Liberty&release=23.0.0.12&platform=All&function=fixId&fixids=wlp-jakartaee10-23.0.0.12&includeSupersedes=0[IBM WebSphere Liberty 23.0.0.12]
 
 
 In order to certify against MicroProfile 6.1, an implementation must pass the TCK tests for the eight included MicroProfile component specifications, plus
